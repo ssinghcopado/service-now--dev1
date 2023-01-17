@@ -1,0 +1,113 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_element": "",
+                "@_label": "Dry Run Table",
+                "@_language": "en",
+                "@_table": "u_dry_run_table",
+                "@_#children": [
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": null,
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "help"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "hint"
+                            },
+                            {
+                                "@_#text": "Dry Run Table",
+                                "@_#tag": "label"
+                            },
+                            {
+                                "@_#text": "en",
+                                "@_#tag": "language"
+                            },
+                            {
+                                "@_#text": "u_dry_run_table",
+                                "@_#tag": "name"
+                            },
+                            {
+                                "@_#text": "Dry Run Tables",
+                                "@_#tag": "plural"
+                            },
+                            {
+                                "@_#text": "sys_documentation",
+                                "@_#tag": "sys_class_name"
+                            },
+                            {
+                                "@_#text": "c-amittell@copado.com",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2022-09-01 12:51:29",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "e9ee02af47ed1d50219e9cb5536d4321",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": "Dry Run Table",
+                                "@_#tag": "sys_name"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_source": "global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_package"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_policy"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_scope"
+                            },
+                            {
+                                "@_#text": "sys_documentation_u_dry_run_table__en",
+                                "@_#tag": "sys_update_name"
+                            },
+                            {
+                                "@_#text": "c-amittell@copado.com",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2022-09-01 12:51:29",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url_target"
+                            }
+                        ],
+                        "@_#tag": "sys_documentation"
+                    }
+                ],
+                "@_#tag": "sys_documentation"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "b9cfec88876c29105b40ca27dabb3568"
+    }
+}
