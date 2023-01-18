@@ -1,0 +1,101 @@
+{
+    "@_action": "INSERT_OR_UPDATE",
+    "@_#children": [
+        {
+            "@_#text": "INSERT_OR_UPDATE",
+            "@_#tag": "action"
+        },
+        {
+            "@_display_value": "Global",
+            "@_#text": "global",
+            "@_#tag": "application"
+        },
+        {
+            "@_#text": "customer",
+            "@_#tag": "category"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "comments"
+        },
+        {
+            "@_#text": "sys_security_acl_1f7a5e2b47215d50219e9cb5536d43a7",
+            "@_#tag": "name"
+        },
+        {
+            "@_#text": "1868740326",
+            "@_#tag": "payload_hash"
+        },
+        {
+            "@_display_value": "Vendor License Request Demo",
+            "@_#text": "b371a5dc87a869105b40ca27dabb3552",
+            "@_#tag": "remote_update_set"
+        },
+        {
+            "@_#text": "false",
+            "@_#tag": "replace_on_upgrade"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_created_by"
+        },
+        {
+            "@_#text": "2023-01-18 10:21:12",
+            "@_#tag": "sys_created_on"
+        },
+        {
+            "@_#text": "3f71a5dc87a869105b40ca27dabb3553",
+            "@_#tag": "sys_id"
+        },
+        {
+            "@_#text": "0",
+            "@_#tag": "sys_mod_count"
+        },
+        {
+            "@_#text": "182f9499cd00000001",
+            "@_#tag": "sys_recorded_at"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_updated_by"
+        },
+        {
+            "@_#text": "2023-01-18 10:21:12",
+            "@_#tag": "sys_updated_on"
+        },
+        {
+            "@_#text": "u_vendor_license_request",
+            "@_#tag": "table"
+        },
+        {
+            "@_#text": "u_vendor_license_request",
+            "@_#tag": "target_name"
+        },
+        {
+            "@_#text": "Access Control",
+            "@_#tag": "type"
+        },
+        {
+            "@_#text": "global",
+            "@_#tag": "update_domain"
+        },
+        {
+            "@_#text": "577a5e2b03215d500a5706f267d37ca9",
+            "@_#tag": "update_guid"
+        },
+        {
+            "@_#text": "577a5e2b03215d500a5706f267d37ca9:1868740326",
+            "@_#tag": "update_guid_history"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "update_set"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "view"
+        }
+    ],
+    "@_#tag": "sys_update_xml"
+}

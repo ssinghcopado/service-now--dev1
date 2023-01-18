@@ -1,0 +1,169 @@
+{
+    "@_#payload": {
+        "@_table": "sys_db_object",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "public",
+                        "@_#tag": "access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "actions_access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "alter_access"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "caller_access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "client_scripts_access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "configuration_access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "create_access"
+                    },
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "create_access_controls"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "delete_access"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "extension_model"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "is_extendable"
+                    },
+                    {
+                        "@_#text": "Vendor License Request",
+                        "@_#tag": "label"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "live_feed_enabled"
+                    },
+                    {
+                        "@_#text": "u_vendor_license_request",
+                        "@_#tag": "name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "number_ref"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "provider_class"
+                    },
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "read_access"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "scriptable_table"
+                    },
+                    {
+                        "@_display_value": "Task",
+                        "@_name": "task",
+                        "@_#text": "488425f787230110b95ea97d0ebb3591",
+                        "@_#tag": "super_class"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_class_code"
+                    },
+                    {
+                        "@_#text": "sys_db_object",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_class_path"
+                    },
+                    {
+                        "@_#text": "c-amittell@copado.com",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2022-09-01 13:42:07",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "106a1e2b47215d50219e9cb5536d435d",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "Vendor License Request",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_#text": "sys_db_object_106a1e2b47215d50219e9cb5536d435d",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "c-amittell@copado.com",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2022-09-01 13:42:07",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "update_access"
+                    },
+                    {
+                        "@_display_value": "u_vendor_license_request_user",
+                        "@_name": "u_vendor_license_request_user",
+                        "@_#text": "df7a5e2b47215d50219e9cb5536d4393",
+                        "@_#tag": "user_role"
+                    },
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "ws_access"
+                    }
+                ],
+                "@_#tag": "sys_db_object"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "b771a5dc87a869105b40ca27dabb3552"
+    }
+}
