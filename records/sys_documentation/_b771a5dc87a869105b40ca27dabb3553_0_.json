@@ -1,0 +1,113 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_element": "",
+                "@_label": "Vendor License Request",
+                "@_language": "en",
+                "@_table": "u_vendor_license_request",
+                "@_#children": [
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": null,
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "help"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "hint"
+                            },
+                            {
+                                "@_#text": "Vendor License Request",
+                                "@_#tag": "label"
+                            },
+                            {
+                                "@_#text": "en",
+                                "@_#tag": "language"
+                            },
+                            {
+                                "@_#text": "u_vendor_license_request",
+                                "@_#tag": "name"
+                            },
+                            {
+                                "@_#text": "Vendor License Requests",
+                                "@_#tag": "plural"
+                            },
+                            {
+                                "@_#text": "sys_documentation",
+                                "@_#tag": "sys_class_name"
+                            },
+                            {
+                                "@_#text": "c-amittell@copado.com",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2022-09-01 13:42:07",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "937a5e2b47215d50219e9cb5536d43c8",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": "Vendor License Request",
+                                "@_#tag": "sys_name"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_source": "global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_package"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_policy"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_scope"
+                            },
+                            {
+                                "@_#text": "sys_documentation_u_vendor_license_request__en",
+                                "@_#tag": "sys_update_name"
+                            },
+                            {
+                                "@_#text": "c-amittell@copado.com",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2022-09-01 13:42:07",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url_target"
+                            }
+                        ],
+                        "@_#tag": "sys_documentation"
+                    }
+                ],
+                "@_#tag": "sys_documentation"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "b771a5dc87a869105b40ca27dabb3553"
+    }
+}
