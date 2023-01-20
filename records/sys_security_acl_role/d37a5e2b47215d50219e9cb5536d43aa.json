@@ -1,0 +1,84 @@
+{
+    "@_#payload": {
+        "@_table": "sys_security_acl_role",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "sys_security_acl_role",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "c-amittell@copado.com",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2022-09-01 13:42:07",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "d37a5e2b47215d50219e9cb5536d43aa",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "u_vendor_license_request.u_vendor_license_request_user",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_display_value": "u_vendor_license_request",
+                        "@_#text": "1f7a5e2b47215d50219e9cb5536d43a7",
+                        "@_#tag": "sys_security_acl"
+                    },
+                    {
+                        "@_#text": "sys_security_acl_role_d37a5e2b47215d50219e9cb5536d43aa",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "c-amittell@copado.com",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2022-09-01 13:42:07",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_display_value": "u_vendor_license_request_user",
+                        "@_name": "u_vendor_license_request_user",
+                        "@_#text": "df7a5e2b47215d50219e9cb5536d4393",
+                        "@_#tag": "sys_user_role"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "transaction_id"
+                    }
+                ],
+                "@_#tag": "sys_security_acl_role"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "3f71211087e869105b40ca27dabb3588"
+    }
+}
