@@ -23,14 +23,6 @@
                         "@_#tag": "condition"
                     },
                     {
-                        "@_#text": "Default access control on u_testing_table",
-                        "@_#tag": "description"
-                    },
-                    {
-                        "@_#text": "u_testing_table",
-                        "@_#tag": "name"
-                    },
-                    {
                         "@_display_value": "delete",
                         "@_#text": "delete",
                         "@_#tag": "operation"
@@ -98,6 +90,6 @@
     },
     "@_#tag": "payload",
     "@_#metadata": {
-        "parent_id": "3886881b47e82510219e9cb5536d4355"
+        "parent_id": "12101c53876ca1105b40ca27dabb35e6"
     }
 }

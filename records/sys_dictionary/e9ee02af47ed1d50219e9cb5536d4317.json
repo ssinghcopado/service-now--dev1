@@ -4,8 +4,9 @@
         "@_#children": [
             {
                 "@_action": "INSERT_OR_UPDATE",
-                "@_element": "u_date_time_new",
-                "@_table": "u_testing_table",
+                "@_element": "",
+                "@_extends": "task",
+                "@_table": "u_dry_run_table",
                 "@_#children": [
                     {
                         "@_#text": "true",
@@ -44,7 +45,7 @@
                         "@_#tag": "choice_table"
                     },
                     {
-                        "@_#text": "Date Time New",
+                        "@_#text": null,
                         "@_#tag": "column_label"
                     },
                     {
@@ -96,7 +97,7 @@
                         "@_#tag": "dynamic_ref_qual"
                     },
                     {
-                        "@_#text": "u_date_time_new",
+                        "@_#text": null,
                         "@_#tag": "element"
                     },
                     {
@@ -116,8 +117,8 @@
                         "@_#tag": "function_field"
                     },
                     {
-                        "@_display_value": "",
-                        "@_#text": "glide_date_time",
+                        "@_display_value": "Collection",
+                        "@_#text": "collection",
                         "@_#tag": "internal_type"
                     },
                     {
@@ -129,7 +130,7 @@
                         "@_#tag": "max_length"
                     },
                     {
-                        "@_#text": "u_testing_table",
+                        "@_#text": "u_dry_run_table",
                         "@_#tag": "name"
                     },
                     {
@@ -193,15 +194,15 @@
                         "@_#tag": "sys_class_name"
                     },
                     {
-                        "@_#text": "CopadoDev",
+                        "@_#text": "c-amittell@copado.com",
                         "@_#tag": "sys_created_by"
                     },
                     {
-                        "@_#text": "2023-01-27 11:23:32",
+                        "@_#text": "2022-09-01 12:51:29",
                         "@_#tag": "sys_created_on"
                     },
                     {
-                        "@_#text": "c8064cd747e82510219e9cb5536d433b",
+                        "@_#text": "e9ee02af47ed1d50219e9cb5536d4317",
                         "@_#tag": "sys_id"
                     },
                     {
@@ -209,7 +210,7 @@
                         "@_#tag": "sys_mod_count"
                     },
                     {
-                        "@_#text": "Date Time New",
+                        "@_#text": "u_dry_run_table",
                         "@_#tag": "sys_name"
                     },
                     {
@@ -228,15 +229,15 @@
                         "@_#tag": "sys_scope"
                     },
                     {
-                        "@_#text": "sys_dictionary_u_testing_table_u_date_time_new",
+                        "@_#text": "sys_dictionary_u_dry_run_table_NULL",
                         "@_#tag": "sys_update_name"
                     },
                     {
-                        "@_#text": "CopadoDev",
+                        "@_#text": "c-amittell@copado.com",
                         "@_#tag": "sys_updated_by"
                     },
                     {
-                        "@_#text": "2023-01-27 11:23:32",
+                        "@_#text": "2022-09-01 12:51:29",
                         "@_#tag": "sys_updated_on"
                     },
                     {
@@ -286,6 +287,6 @@
     },
     "@_#tag": "payload",
     "@_#metadata": {
-        "parent_id": "5a101c53876ca1105b40ca27dabb35e3"
+        "parent_id": "d2101c53876ca1105b40ca27dabb35e3"
     }
 }

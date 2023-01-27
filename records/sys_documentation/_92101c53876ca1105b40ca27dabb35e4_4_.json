@@ -1,0 +1,113 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_element": "u_date_time_new",
+                "@_label": "Date Time New",
+                "@_language": "en",
+                "@_table": "u_testing_table",
+                "@_#children": [
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "u_date_time_new",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "help"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "hint"
+                            },
+                            {
+                                "@_#text": "Date Time New",
+                                "@_#tag": "label"
+                            },
+                            {
+                                "@_#text": "en",
+                                "@_#tag": "language"
+                            },
+                            {
+                                "@_#text": "u_testing_table",
+                                "@_#tag": "name"
+                            },
+                            {
+                                "@_#text": "Date Time News",
+                                "@_#tag": "plural"
+                            },
+                            {
+                                "@_#text": "sys_documentation",
+                                "@_#tag": "sys_class_name"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:23:32",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "6016801b47e82510219e9cb5536d4342",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": "Date Time New",
+                                "@_#tag": "sys_name"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_source": "global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_package"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_policy"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_scope"
+                            },
+                            {
+                                "@_#text": "sys_documentation_u_testing_table_u_date_time_new_en",
+                                "@_#tag": "sys_update_name"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:23:32",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url_target"
+                            }
+                        ],
+                        "@_#tag": "sys_documentation"
+                    }
+                ],
+                "@_#tag": "sys_documentation"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "92101c53876ca1105b40ca27dabb35e4"
+    }
+}

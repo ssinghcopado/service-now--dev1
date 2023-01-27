@@ -4,7 +4,7 @@
         "@_#children": [
             {
                 "@_action": "INSERT_OR_UPDATE",
-                "@_element": "u_date_time_new",
+                "@_element": "u_subha_price_field",
                 "@_table": "u_testing_table",
                 "@_#children": [
                     {
@@ -44,7 +44,7 @@
                         "@_#tag": "choice_table"
                     },
                     {
-                        "@_#text": "Date Time New",
+                        "@_#text": "Subha Price Field",
                         "@_#tag": "column_label"
                     },
                     {
@@ -96,7 +96,7 @@
                         "@_#tag": "dynamic_ref_qual"
                     },
                     {
-                        "@_#text": "u_date_time_new",
+                        "@_#text": "u_subha_price_field",
                         "@_#tag": "element"
                     },
                     {
@@ -116,8 +116,8 @@
                         "@_#tag": "function_field"
                     },
                     {
-                        "@_display_value": "",
-                        "@_#text": "glide_date_time",
+                        "@_display_value": "Price",
+                        "@_#text": "price",
                         "@_#tag": "internal_type"
                     },
                     {
@@ -125,7 +125,7 @@
                         "@_#tag": "mandatory"
                     },
                     {
-                        "@_#text": "40",
+                        "@_#text": "20",
                         "@_#tag": "max_length"
                     },
                     {
@@ -197,11 +197,11 @@
                         "@_#tag": "sys_created_by"
                     },
                     {
-                        "@_#text": "2023-01-27 11:23:32",
+                        "@_#text": "2023-01-27 12:03:29",
                         "@_#tag": "sys_created_on"
                     },
                     {
-                        "@_#text": "c8064cd747e82510219e9cb5536d433b",
+                        "@_#text": "341f4813472c2510219e9cb5536d43a3",
                         "@_#tag": "sys_id"
                     },
                     {
@@ -209,7 +209,7 @@
                         "@_#tag": "sys_mod_count"
                     },
                     {
-                        "@_#text": "Date Time New",
+                        "@_#text": "Subha Price Field",
                         "@_#tag": "sys_name"
                     },
                     {
@@ -228,7 +228,7 @@
                         "@_#tag": "sys_scope"
                     },
                     {
-                        "@_#text": "sys_dictionary_u_testing_table_u_date_time_new",
+                        "@_#text": "sys_dictionary_u_testing_table_u_subha_price_field",
                         "@_#tag": "sys_update_name"
                     },
                     {
@@ -236,7 +236,7 @@
                         "@_#tag": "sys_updated_by"
                     },
                     {
-                        "@_#text": "2023-01-27 11:23:32",
+                        "@_#text": "2023-01-27 12:03:29",
                         "@_#tag": "sys_updated_on"
                     },
                     {
@@ -286,6 +286,6 @@
     },
     "@_#tag": "payload",
     "@_#metadata": {
-        "parent_id": "5a101c53876ca1105b40ca27dabb35e3"
+        "parent_id": "1e101c53876ca1105b40ca27dabb35e3"
     }
 }
