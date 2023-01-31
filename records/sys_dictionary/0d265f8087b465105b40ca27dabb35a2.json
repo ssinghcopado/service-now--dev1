@@ -1,0 +1,291 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_element": "u_subha_decimal",
+                "@_table": "u_subha_table_new",
+                "@_#children": [
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "active"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "array"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "array_denormalized"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "attributes"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "audit"
+                    },
+                    {
+                        "@_#text": "(function calculatedFieldValue(current) {\n\n\t// Add your code here\n\treturn '';  // return the calculated value\n\n})(current);",
+                        "@_#tag": "calculation"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "choice"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "choice_field"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "choice_table"
+                    },
+                    {
+                        "@_#text": "Subha Decimal",
+                        "@_#tag": "column_label"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "comments"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "create_roles"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "default_value"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "defaultsort"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "delete_roles"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "dependent"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "dependent_on_field"
+                    },
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "display"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "dynamic_creation"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "dynamic_creation_script"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "dynamic_default_value"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "dynamic_ref_qual"
+                    },
+                    {
+                        "@_#text": "u_subha_decimal",
+                        "@_#tag": "element"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "element_reference"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "foreign_database"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "function_definition"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "function_field"
+                    },
+                    {
+                        "@_display_value": "Decimal",
+                        "@_#text": "decimal",
+                        "@_#tag": "internal_type"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "mandatory"
+                    },
+                    {
+                        "@_#text": "18",
+                        "@_#tag": "max_length"
+                    },
+                    {
+                        "@_#text": "u_subha_table_new",
+                        "@_#tag": "name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "next_element"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "primary"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "read_only"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "read_roles"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference_cascade_rule"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "reference_floats"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference_key"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference_qual"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference_qual_condition"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "reference_type"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sizeclass"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "spell_check"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "staged"
+                    },
+                    {
+                        "@_#text": "sys_dictionary",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2023-01-30 10:28:42",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "0d265f8087b465105b40ca27dabb35a2",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "Subha Decimal",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_#text": "sys_dictionary_u_subha_table_new_u_subha_decimal",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2023-01-30 10:28:42",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "table_reference"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "text_index"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "unique"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "use_dependent_field"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "use_dynamic_default"
+                    },
+                    {
+                        "@_#text": "simple",
+                        "@_#tag": "use_reference_qualifier"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "virtual"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "widget"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "write_roles"
+                    },
+                    {
+                        "@_#text": "false",
+                        "@_#tag": "xml_view"
+                    }
+                ],
+                "@_#tag": "sys_dictionary"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "d59250a447b06910219e9cb5536d4384"
+    }
+}
