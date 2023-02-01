@@ -1,0 +1,123 @@
+{
+    "@_#payload": {
+        "@_sys_domain": "global",
+        "@_table": "sys_app_application",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "active"
+                    },
+                    {
+                        "@_display_value": "Custom Applications",
+                        "@_#text": "e0355b31ef303000a61d5a3615c0fb78",
+                        "@_#tag": "category"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "description"
+                    },
+                    {
+                        "@_#text": "browser",
+                        "@_#tag": "device_type"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "hint"
+                    },
+                    {
+                        "@_#text": "Extend Change Request",
+                        "@_#tag": "name"
+                    },
+                    {
+                        "@_#text": "100",
+                        "@_#tag": "order"
+                    },
+                    {
+                        "@_#text": "u_extend_change_request_user",
+                        "@_#tag": "roles"
+                    },
+                    {
+                        "@_#text": "sys_app_application",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2023-02-01 11:59:54",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "global",
+                        "@_#tag": "sys_domain"
+                    },
+                    {
+                        "@_#text": "/",
+                        "@_#tag": "sys_domain_path"
+                    },
+                    {
+                        "@_#text": "b55e353447b4a910219e9cb5536d4373",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "Extend Change Request",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_overrides"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_#text": "sys_app_application_b55e353447b4a910219e9cb5536d4373",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2023-02-01 11:59:54",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_#text": "Extend Change Request",
+                        "@_#tag": "title"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "view_name"
+                    }
+                ],
+                "@_#tag": "sys_app_application"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "13cf0efc87f0e5105b40ca27dabb3517"
+    }
+}
