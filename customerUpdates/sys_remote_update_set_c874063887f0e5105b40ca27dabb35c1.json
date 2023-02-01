@@ -1,0 +1,123 @@
+{
+    "@_action": "INSERT_OR_UPDATE",
+    "@_#children": [
+        {
+            "@_display_value": "Global",
+            "@_#text": "global",
+            "@_#tag": "application"
+        },
+        {
+            "@_#text": "Global",
+            "@_#tag": "application_name"
+        },
+        {
+            "@_#text": "global",
+            "@_#tag": "application_scope"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "application_version"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "collisions"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "commit_date"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "deleted"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "description"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "inserted"
+        },
+        {
+            "@_#text": "Subha Test Rollback 1st feb 33",
+            "@_#tag": "name"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "origin_sys_id"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "parent"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "release_date"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "remote_base_update_set"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "remote_parent_id"
+        },
+        {
+            "@_#text": "910ebdf047b4a910219e9cb5536d43c9",
+            "@_#tag": "remote_sys_id"
+        },
+        {
+            "@_#text": "loaded",
+            "@_#tag": "state"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "summary"
+        },
+        {
+            "@_#text": "sys_remote_update_set",
+            "@_#tag": "sys_class_name"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_created_by"
+        },
+        {
+            "@_#text": "2023-02-01 12:26:32",
+            "@_#tag": "sys_created_on"
+        },
+        {
+            "@_#text": "c874063887f0e5105b40ca27dabb35c1",
+            "@_#tag": "sys_id"
+        },
+        {
+            "@_#text": "0",
+            "@_#tag": "sys_mod_count"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_updated_by"
+        },
+        {
+            "@_#text": "2023-02-01 12:26:32",
+            "@_#tag": "sys_updated_on"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "update_set"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "update_source"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "updated"
+        }
+    ],
+    "@_#tag": "sys_remote_update_set"
+}
