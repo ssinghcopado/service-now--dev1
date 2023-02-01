@@ -1,0 +1,101 @@
+{
+    "@_action": "INSERT_OR_UPDATE",
+    "@_#children": [
+        {
+            "@_#text": "INSERT_OR_UPDATE",
+            "@_#tag": "action"
+        },
+        {
+            "@_display_value": "Global",
+            "@_#text": "global",
+            "@_#tag": "application"
+        },
+        {
+            "@_#text": "customer",
+            "@_#tag": "category"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "comments"
+        },
+        {
+            "@_#text": "sys_app_module_2c20f5f44774a910219e9cb5536d4374",
+            "@_#tag": "name"
+        },
+        {
+            "@_#text": "1042162105",
+            "@_#tag": "payload_hash"
+        },
+        {
+            "@_display_value": "Subha Test Rollback 1st feb",
+            "@_#text": "0551b1f887b0e5105b40ca27dabb3577",
+            "@_#tag": "remote_update_set"
+        },
+        {
+            "@_#text": "false",
+            "@_#tag": "replace_on_upgrade"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_created_by"
+        },
+        {
+            "@_#text": "2023-02-01 11:03:04",
+            "@_#tag": "sys_created_on"
+        },
+        {
+            "@_#text": "cd51b1f887b0e5105b40ca27dabb3577",
+            "@_#tag": "sys_id"
+        },
+        {
+            "@_#text": "0",
+            "@_#tag": "sys_mod_count"
+        },
+        {
+            "@_#text": "1860ca030df0000001",
+            "@_#tag": "sys_recorded_at"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_updated_by"
+        },
+        {
+            "@_#text": "2023-02-01 11:03:04",
+            "@_#tag": "sys_updated_on"
+        },
+        {
+            "@_#text": "u_vendor_table_feb",
+            "@_#tag": "table"
+        },
+        {
+            "@_#text": "Vendor Table Feb s",
+            "@_#tag": "target_name"
+        },
+        {
+            "@_#text": "Module",
+            "@_#tag": "type"
+        },
+        {
+            "@_#text": "global",
+            "@_#tag": "update_domain"
+        },
+        {
+            "@_#text": "e420f5f40374a910e13209b6ef988076",
+            "@_#tag": "update_guid"
+        },
+        {
+            "@_#text": "e420f5f40374a910e13209b6ef988076:1042162105",
+            "@_#tag": "update_guid_history"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "update_set"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "view"
+        }
+    ],
+    "@_#tag": "sys_update_xml"
+}
