@@ -1,0 +1,84 @@
+{
+    "@_#payload": {
+        "@_table": "sys_security_acl_role",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "sys_security_acl_role",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2023-02-01 10:57:50",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "b020f5f44774a910219e9cb5536d4386",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "u_vendor_table_feb.u_vendor_table_feb_user",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_display_value": "u_vendor_table_feb",
+                        "@_#text": "b820f5f44774a910219e9cb5536d4383",
+                        "@_#tag": "sys_security_acl"
+                    },
+                    {
+                        "@_#text": "sys_security_acl_role_b020f5f44774a910219e9cb5536d4386",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2023-02-01 10:57:50",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_display_value": "u_vendor_table_feb_user",
+                        "@_name": "u_vendor_table_feb_user",
+                        "@_#text": "642075f44774a910219e9cb5536d4348",
+                        "@_#tag": "sys_user_role"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "transaction_id"
+                    }
+                ],
+                "@_#tag": "sys_security_acl_role"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "0cf979fc4774a910219e9cb5536d43d8"
+    }
+}
