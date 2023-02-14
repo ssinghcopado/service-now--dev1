@@ -23,14 +23,6 @@
                         "@_#tag": "condition"
                     },
                     {
-                        "@_#text": "Default access control on u_table_extend_task_2",
-                        "@_#tag": "description"
-                    },
-                    {
-                        "@_#text": "u_table_extend_task_2",
-                        "@_#tag": "name"
-                    },
-                    {
                         "@_display_value": "delete",
                         "@_#text": "delete",
                         "@_#tag": "operation"
@@ -98,6 +90,6 @@
     },
     "@_#tag": "payload",
     "@_#metadata": {
-        "parent_id": "57abc75947b42d10219e9cb5536d4376"
+        "parent_id": "ca3bd045870d29105b40ca27dabb3506"
     }
 }
