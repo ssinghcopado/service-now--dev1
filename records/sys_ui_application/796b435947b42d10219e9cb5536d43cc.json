@@ -1,0 +1,102 @@
+{
+    "@_#payload": {
+        "@_sys_domain": "global",
+        "@_table": "sys_ui_application",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "true",
+                        "@_#tag": "active"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "hint"
+                    },
+                    {
+                        "@_#text": "Table Extend Task 2",
+                        "@_#tag": "name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "order"
+                    },
+                    {
+                        "@_#text": "u_table_extend_task_2_user",
+                        "@_#tag": "roles"
+                    },
+                    {
+                        "@_#text": "sys_ui_application",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2023-02-03 06:53:33",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "global",
+                        "@_#tag": "sys_domain"
+                    },
+                    {
+                        "@_#text": "/",
+                        "@_#tag": "sys_domain_path"
+                    },
+                    {
+                        "@_#text": "796b435947b42d10219e9cb5536d43cc",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "Table Extend Task 2",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_overrides"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_#text": "sys_ui_application_796b435947b42d10219e9cb5536d43cc",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "CopadoDev",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2023-02-03 06:53:33",
+                        "@_#tag": "sys_updated_on"
+                    }
+                ],
+                "@_#tag": "sys_ui_application"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "699d2be987ade5105b40ca27dabb35cb"
+    }
+}
