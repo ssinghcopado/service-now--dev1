@@ -1,0 +1,101 @@
+{
+    "@_action": "INSERT_OR_UPDATE",
+    "@_#children": [
+        {
+            "@_#text": "INSERT_OR_UPDATE",
+            "@_#tag": "action"
+        },
+        {
+            "@_display_value": "Global",
+            "@_#text": "global",
+            "@_#tag": "application"
+        },
+        {
+            "@_#text": "customer",
+            "@_#tag": "category"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "comments"
+        },
+        {
+            "@_#text": "sys_security_acl_8360da85474a6d50219e9cb5536d4323",
+            "@_#tag": "name"
+        },
+        {
+            "@_#text": "382981275",
+            "@_#tag": "payload_hash"
+        },
+        {
+            "@_display_value": "Copado UpdateSet - STRY0010041 3",
+            "@_#text": "b8a05685474a6d50219e9cb5536d43a0",
+            "@_#tag": "remote_update_set"
+        },
+        {
+            "@_#text": "false",
+            "@_#tag": "replace_on_upgrade"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_created_by"
+        },
+        {
+            "@_#text": "2023-04-05 11:16:48",
+            "@_#tag": "sys_created_on"
+        },
+        {
+            "@_#text": "fca05685474a6d50219e9cb5536d43a1",
+            "@_#tag": "sys_id"
+        },
+        {
+            "@_#text": "0",
+            "@_#tag": "sys_mod_count"
+        },
+        {
+            "@_#text": "187512157c30000001",
+            "@_#tag": "sys_recorded_at"
+        },
+        {
+            "@_#text": "CopadoDev",
+            "@_#tag": "sys_updated_by"
+        },
+        {
+            "@_#text": "2023-04-05 11:16:48",
+            "@_#tag": "sys_updated_on"
+        },
+        {
+            "@_#text": "u_mv_table_test",
+            "@_#tag": "table"
+        },
+        {
+            "@_#text": "u_mv_table_test",
+            "@_#tag": "target_name"
+        },
+        {
+            "@_#text": "Access Control",
+            "@_#tag": "type"
+        },
+        {
+            "@_#text": "global",
+            "@_#tag": "update_domain"
+        },
+        {
+            "@_#text": "cb60da854a4a6d503ac38741c7830624",
+            "@_#tag": "update_guid"
+        },
+        {
+            "@_#text": "cb60da854a4a6d503ac38741c7830624:382981275",
+            "@_#tag": "update_guid_history"
+        },
+        {
+            "@_display_value": "",
+            "@_#text": null,
+            "@_#tag": "update_set"
+        },
+        {
+            "@_#text": null,
+            "@_#tag": "view"
+        }
+    ],
+    "@_#tag": "sys_update_xml"
+}
