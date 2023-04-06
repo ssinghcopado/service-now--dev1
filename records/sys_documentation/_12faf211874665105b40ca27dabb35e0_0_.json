@@ -1,0 +1,113 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_element": "",
+                "@_label": "Task - Test Extension",
+                "@_language": "en",
+                "@_table": "u_task_test_extension",
+                "@_#children": [
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": null,
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "help"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "hint"
+                            },
+                            {
+                                "@_#text": "Task - Test Extension",
+                                "@_#tag": "label"
+                            },
+                            {
+                                "@_#text": "en",
+                                "@_#tag": "language"
+                            },
+                            {
+                                "@_#text": "u_task_test_extension",
+                                "@_#tag": "name"
+                            },
+                            {
+                                "@_#text": "Task - Test Extensions",
+                                "@_#tag": "plural"
+                            },
+                            {
+                                "@_#text": "sys_documentation",
+                                "@_#tag": "sys_class_name"
+                            },
+                            {
+                                "@_#text": "admin",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-04-06 08:57:30",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "ca5afedd474aad50219e9cb5536d430a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": "Task - Test Extension",
+                                "@_#tag": "sys_name"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_source": "global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_package"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_policy"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_scope"
+                            },
+                            {
+                                "@_#text": "sys_documentation_u_task_test_extension__en",
+                                "@_#tag": "sys_update_name"
+                            },
+                            {
+                                "@_#text": "admin",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-04-06 08:57:30",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "url_target"
+                            }
+                        ],
+                        "@_#tag": "sys_documentation"
+                    }
+                ],
+                "@_#tag": "sys_documentation"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "12faf211874665105b40ca27dabb35e0"
+    }
+}
