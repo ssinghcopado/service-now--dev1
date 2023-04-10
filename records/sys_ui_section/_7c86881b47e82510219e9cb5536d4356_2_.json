@@ -1,0 +1,892 @@
+{
+    "@_#payload": {
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_caption": "",
+                "@_section_id": "f3a5c4d747e82510219e9cb5536d4318",
+                "@_sys_domain": "global",
+                "@_table": "u_testing_table",
+                "@_version": "3",
+                "@_view": "",
+                "@_#children": [
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "number",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "ffa5c4d747e82510219e9cb5536d4319",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "assigned_to",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "1",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "f7a5c4d747e82510219e9cb5536d431a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "cmdb_ci",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "2",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "7ba5c4d747e82510219e9cb5536d431a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "active",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "3",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "fba5c4d747e82510219e9cb5536d431a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": ".split",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "4",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "7fa5c4d747e82510219e9cb5536d431a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": ".split",
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "priority",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "5",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "ffa5c4d747e82510219e9cb5536d431a",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "state",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "6",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "73a5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "parent",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "7",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": ".end_split",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "8",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "77a5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": ".end_split",
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "short_description",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "9",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "f7a5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "description",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "10",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "7ba5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "work_notes",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "11",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "fba5c4d747e82510219e9cb5536d431b",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": "u_date_time_new",
+                                "@_#tag": "element"
+                            },
+                            {
+                                "@_#text": "12",
+                                "@_#tag": "position"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:23:32",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "5416401b47e82510219e9cb5536d435f",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_ui_formatter"
+                            },
+                            {
+                                "@_caption": "NULL",
+                                "@_display_value": "",
+                                "@_name": "u_testing_table",
+                                "@_sys_domain": "global",
+                                "@_view": "Default view",
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_ui_section"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:23:32",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "type"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_element"
+                    },
+                    {
+                        "@_action": "INSERT_OR_UPDATE",
+                        "@_#children": [
+                            {
+                                "@_#text": null,
+                                "@_#tag": "caption"
+                            },
+                            {
+                                "@_#text": "false",
+                                "@_#tag": "header"
+                            },
+                            {
+                                "@_#text": "u_testing_table",
+                                "@_#tag": "name"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "roles"
+                            },
+                            {
+                                "@_#text": "sys_ui_section",
+                                "@_#tag": "sys_class_name"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_created_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_created_on"
+                            },
+                            {
+                                "@_#text": "global",
+                                "@_#tag": "sys_domain"
+                            },
+                            {
+                                "@_#text": "/",
+                                "@_#tag": "sys_domain_path"
+                            },
+                            {
+                                "@_#text": "f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_id"
+                            },
+                            {
+                                "@_#text": "0",
+                                "@_#tag": "sys_mod_count"
+                            },
+                            {
+                                "@_#text": "u_testing_table",
+                                "@_#tag": "sys_name"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_overrides"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_source": "global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_package"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_policy"
+                            },
+                            {
+                                "@_display_value": "Global",
+                                "@_#text": "global",
+                                "@_#tag": "sys_scope"
+                            },
+                            {
+                                "@_#text": "sys_ui_section_f3a5c4d747e82510219e9cb5536d4318",
+                                "@_#tag": "sys_update_name"
+                            },
+                            {
+                                "@_#text": "CopadoDev",
+                                "@_#tag": "sys_updated_by"
+                            },
+                            {
+                                "@_#text": "2023-01-27 11:21:51",
+                                "@_#tag": "sys_updated_on"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "sys_user"
+                            },
+                            {
+                                "@_#text": "true",
+                                "@_#tag": "title"
+                            },
+                            {
+                                "@_display_value": "Default view",
+                                "@_name": "NULL",
+                                "@_#text": "Default view",
+                                "@_#tag": "view"
+                            },
+                            {
+                                "@_#text": null,
+                                "@_#tag": "view_name"
+                            }
+                        ],
+                        "@_#tag": "sys_ui_section"
+                    }
+                ],
+                "@_#tag": "sys_ui_section"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "7c86881b47e82510219e9cb5536d4356"
+    }
+}
