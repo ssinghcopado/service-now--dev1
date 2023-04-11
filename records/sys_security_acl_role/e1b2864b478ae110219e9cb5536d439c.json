@@ -1,0 +1,84 @@
+{
+    "@_#payload": {
+        "@_table": "sys_security_acl_role",
+        "@_#tag": "record_update",
+        "@_#children": [
+            {
+                "@_action": "INSERT_OR_UPDATE",
+                "@_#children": [
+                    {
+                        "@_#text": "sys_security_acl_role",
+                        "@_#tag": "sys_class_name"
+                    },
+                    {
+                        "@_#text": "admin",
+                        "@_#tag": "sys_created_by"
+                    },
+                    {
+                        "@_#text": "2023-04-11 15:23:48",
+                        "@_#tag": "sys_created_on"
+                    },
+                    {
+                        "@_#text": "e1b2864b478ae110219e9cb5536d439c",
+                        "@_#tag": "sys_id"
+                    },
+                    {
+                        "@_#text": "0",
+                        "@_#tag": "sys_mod_count"
+                    },
+                    {
+                        "@_#text": "u_issue_debug_logs.u_issue_debug_logs_user",
+                        "@_#tag": "sys_name"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_source": "global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_package"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "sys_policy"
+                    },
+                    {
+                        "@_display_value": "Global",
+                        "@_#text": "global",
+                        "@_#tag": "sys_scope"
+                    },
+                    {
+                        "@_display_value": "u_issue_debug_logs",
+                        "@_#text": "a9b2864b478ae110219e9cb5536d4398",
+                        "@_#tag": "sys_security_acl"
+                    },
+                    {
+                        "@_#text": "sys_security_acl_role_e1b2864b478ae110219e9cb5536d439c",
+                        "@_#tag": "sys_update_name"
+                    },
+                    {
+                        "@_#text": "admin",
+                        "@_#tag": "sys_updated_by"
+                    },
+                    {
+                        "@_#text": "2023-04-11 15:23:48",
+                        "@_#tag": "sys_updated_on"
+                    },
+                    {
+                        "@_display_value": "u_issue_debug_logs_user",
+                        "@_name": "u_issue_debug_logs_user",
+                        "@_#text": "59b24ec3478ae110219e9cb5536d43be",
+                        "@_#tag": "sys_user_role"
+                    },
+                    {
+                        "@_#text": null,
+                        "@_#tag": "transaction_id"
+                    }
+                ],
+                "@_#tag": "sys_security_acl_role"
+            }
+        ]
+    },
+    "@_#tag": "payload",
+    "@_#metadata": {
+        "parent_id": "f033064b478ae110219e9cb5536d4311"
+    }
+}
