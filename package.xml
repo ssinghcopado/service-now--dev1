@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-04-25 10:25:48">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Subha Jest Test</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>9d79790c471b1d10219e9cb5536d43aa</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-04-25 10:25:47</sys_created_on>
+<sys_id>98c485638752ed105b40ca27dabb3559</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-04-25 10:25:47</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_8ae33418db43dd10cbec1c97059619c9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.myUserUtil2&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;myUserUtil2&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var myUserUtil2 = Class.create();
+myUserUtil2.prototype = {
+	initialize: function () {
+	},
+
+	getUser: function (search_value) {
+		// Return the sys_id of the searched for user, or the admin sys_id if user_name or user full name not matched
+		user_sys_id = '';
+		var gr = new GlideRecord('sys_user');
+		if (gr.get('user_name', search_value)) {
+			user_sys_id = gr.getUniqueValue();
+		}
+		else if (gr.get('name', search_value)) {
+			user_sys_id = gr.getUniqueValue();
+		} else if (gr.get('user_name', 'admin')) {
+			user_sys_id = gr.getUniqueValue();
+		}
+		return user_sys_id;
+	},
+
+	deleteUser: function (user_sys_id) {
+		// delete selected user account
+		var gr = new GlideRecord('sys_user');
+		gr.get(user_sys_id);
+		gr.deleteRecord();
+	},
+
+	getUserCount: function () {
+		// how many users do we have in the system?
+		var gr = new GlideRecord('sys_user');
+		gr.query();
+		return gr.getRowCount();
+
+	},
+
+	type: 'myUserUtil2'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-04 17:27:59&lt;/sys_created_on&gt;&lt;sys_id&gt;8ae33418db43dd10cbec1c97059619c9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;myUserUtil2&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_8ae33418db43dd10cbec1c97059619c9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-04 17:27:59&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-981725257</payload_hash>
+<remote_update_set display_value="Subha Jest Test">98c485638752ed105b40ca27dabb3559</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-04-25 10:25:47</sys_created_on>
+<sys_id>68c485638752ed105b40ca27dabb355a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18443af69030000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-04-25 10:25:47</sys_updated_on>
+<table/>
+<target_name>myUserUtil2</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>d4f3385cd343dd103cbc786784590740</update_guid>
+<update_guid_history>d4f3385cd343dd103cbc786784590740:-981725257</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_1ad3f85cdb43dd10cbec1c9705961949</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.myUserUtil&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;myUserUtil&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var myUserUtil = Class.create();
+myUserUtil.prototype = {
+	initialize: function () {
+	},
+
+	getUser: function (search_value) {
+		// Return the sys_id of the searched for user, or the admin sys_id if user_name or user full name not matched
+		user_sys_id = '';
+		var gr = new GlideRecord('sys_user');
+		if (gr.get('user_name', search_value)) {
+			user_sys_id = gr.getUniqueValue();
+		}
+		else if (gr.get('name', search_value)) {
+			user_sys_id = gr.getUniqueValue();
+		} else {
+			user_sys_id = "6816f79cc0a8016401c5a33be04be441"; // system administrator sys_id
+		}
+		return user_sys_id;
+	},
+
+	deleteUser: function (user_sys_id) {
+		// delete selected user account
+		gs.sql("DELETE FROM sys_user WHERE sys_id=" + user_sys_id); // delete user with sql
+	},
+
+	type: 'myUserUtil'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-04 17:27:43&lt;/sys_created_on&gt;&lt;sys_id&gt;1ad3f85cdb43dd10cbec1c9705961949&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;myUserUtil&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_1ad3f85cdb43dd10cbec1c9705961949&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-04 17:27:43&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-141123604</payload_hash>
+<remote_update_set display_value="Subha Jest Test">98c485638752ed105b40ca27dabb3559</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-04-25 10:25:47</sys_created_on>
+<sys_id>9cc485638752ed105b40ca27dabb3559</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18443af29170000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-04-25 10:25:47</sys_updated_on>
+<table/>
+<target_name>myUserUtil</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>d8e33cd43343dd100e6dc0134b9a28dd</update_guid>
+<update_guid_history>d8e33cd43343dd100e6dc0134b9a28dd:-141123604</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_7ba3b45cdb43dd10cbec1c970596199b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.myIncidentUtil&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;myIncidentUtil&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var myIncidentUtil = Class.create();
+myIncidentUtil.prototype = {
+    initialize: function() {
+    },
+
+	deleteIncident: function(inc_sys_id) {
+		// Delete selected Incident
+		gs.sql("DELETE FROM incident WHERE sys_id=" + inc_sys_id); // dummy statement - this won't work, but should be caught by tests
+        gs.log("Deleted incident with sys_id " + inc_sys_id);
+	},
+	
+	cleanIncidentTable: function(user_sys_id) {
+        // delete all records from the Incident table
+        gs.sql("DELETE FROM incident"); // dummy statement - this won't work, but should be caught by tests
+        gs.log("deleted all incidents using SQL");
+    },
+	
+    type: 'myIncidentUtil'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-04 17:27:07&lt;/sys_created_on&gt;&lt;sys_id&gt;7ba3b45cdb43dd10cbec1c970596199b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;myIncidentUtil&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_7ba3b45cdb43dd10cbec1c970596199b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-04 17:27:07&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>358610939</payload_hash>
+<remote_update_set display_value="Subha Jest Test">98c485638752ed105b40ca27dabb3559</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-04-25 10:25:47</sys_created_on>
+<sys_id>a4c485638752ed105b40ca27dabb355a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18443ae9ed30000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-04-25 10:25:47</sys_updated_on>
+<table/>
+<target_name>myIncidentUtil</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>e7b3f018d243dd10f3686e6124f69326</update_guid>
+<update_guid_history>e7b3f018d243dd10f3686e6124f69326:358610939</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
