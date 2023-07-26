@@ -1,6 +1,6 @@
 module.exports = {
     moduleFileExtensions: ['js', 'ts'],
-    testEnvironment: 'jsdom',
+    testEnvironment: 'node',
     testEnvironmentOptions: {
         nodeGlobals: ['myGlobalVariable'],
     },
