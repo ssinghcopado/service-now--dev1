@@ -5,6 +5,7 @@
     "typescript": "^5.0.4"
   },
   "devDependencies": {
+    "@salesforce/lwc-jest": "^0.6.2",
     "jest": "27.5.1",
     "jest-environment-node": "27.5.1",
     "jest-config": "27.5.1",
