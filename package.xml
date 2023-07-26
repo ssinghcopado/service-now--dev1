@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-07-26 13:00:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Node Update Table</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>ead9974d47583550219e9cb5536d431f</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>b27a974d47583550219e9cb5536d43e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_node_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="node table" language="en" table="u_node_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>node table</label><language>en</language><name>u_node_table</name><plural>node tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>c50a5b4d47583550219e9cb5536d4392</sys_id><sys_mod_count>0</sys_mod_count><sys_name>node table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_node_table__en</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-789144823</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>327a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b82e0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>node table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>450a5b4d8b5835505ca8e69c5a705aa3</update_guid>
+<update_guid_history>450a5b4d8b5835505ca8e69c5a705aa3:-789144823</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_810a5b4d47583550219e9cb5536d4385</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>810a5b4d47583550219e9cb5536d4385</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table.u_node_table_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_node_table">890a5b4d47583550219e9cb5536d4382</sys_security_acl><sys_update_name>sys_security_acl_role_810a5b4d47583550219e9cb5536d4385</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><sys_user_role display_value="u_node_table_user" name="u_node_table_user">740a5b4d47583550219e9cb5536d4340</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>795581857</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>3a7a974d47583550219e9cb5536d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6e60000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table.u_node_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>4d0a5b4d305835509e142697063b5e86</update_guid>
+<update_guid_history>4d0a5b4d305835509e142697063b5e86:795581857</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_cd0a5b4d47583550219e9cb5536d4345</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_node_table</description><name>u_node_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>cd0a5b4d47583550219e9cb5536d4345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_cd0a5b4d47583550219e9cb5536d4345</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1710023187</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>3e7a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6600000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0d0a5b4d64583550b9fe0d2ba918ec47</update_guid>
+<update_guid_history>0d0a5b4d64583550b9fe0d2ba918ec47:-1710023187</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_0d0a5b4d47583550219e9cb5536d4348</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>0d0a5b4d47583550219e9cb5536d4348</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table.u_node_table_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_node_table">cd0a5b4d47583550219e9cb5536d4345</sys_security_acl><sys_update_name>sys_security_acl_role_0d0a5b4d47583550219e9cb5536d4348</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><sys_user_role display_value="u_node_table_user" name="u_node_table_user">740a5b4d47583550219e9cb5536d4340</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1096304968</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>767a974d47583550219e9cb5536d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b68b0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table.u_node_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>0d0a5b4d2358355024cb34446db7814a</update_guid>
+<update_guid_history>0d0a5b4d2358355024cb34446db7814a:1096304968</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_890a5b4d47583550219e9cb5536d4382</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_node_table</description><name>u_node_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>890a5b4d47583550219e9cb5536d4382</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_890a5b4d47583550219e9cb5536d4382</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>722954365</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>7a7a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6d20000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c10a5b4d5a58355091bae150acf44784</update_guid>
+<update_guid_history>c10a5b4d5a58355091bae150acf44784:722954365</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_node_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_node_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_node_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;CopadoDev&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-26 12:58:40&lt;/sys_created_on&gt;&lt;sys_id&gt;8d0a5b4d47583550219e9cb5536d438c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_node_table&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_node_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;CopadoDev&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-26 12:58:40&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1016237817</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>7e7a974d47583550219e9cb5536d43e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b81b0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>node table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>4d0a5b4dec58355069e51c36d56639a1</update_guid>
+<update_guid_history>4d0a5b4dec58355069e51c36d56639a1:1016237817</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_050a5b4d47583550219e9cb5536d438a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>050a5b4d47583550219e9cb5536d438a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table.u_node_table_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_node_table">0d0a5b4d47583550219e9cb5536d4387</sys_security_acl><sys_update_name>sys_security_acl_role_050a5b4d47583550219e9cb5536d438a</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><sys_user_role display_value="u_node_table_user" name="u_node_table_user">740a5b4d47583550219e9cb5536d4340</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1197267047</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>b27a974d47583550219e9cb5536d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b7140000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table.u_node_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>cd0a5b4dfa583550d8026089bce13f8b</update_guid>
+<update_guid_history>cd0a5b4dfa583550d8026089bce13f8b:-1197267047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_3df91b4d47583550219e9cb5536d43bf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>node table</label><live_feed_enabled>false</live_feed_enabled><name>u_node_table</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>3df91b4d47583550219e9cb5536d43bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>node table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_3df91b4d47583550219e9cb5536d43bf</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><update_access>false</update_access><user_role display_value="u_node_table_user" name="u_node_table_user">740a5b4d47583550219e9cb5536d4340</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-613903855</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>b67a974d47583550219e9cb5536d43e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b83c0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>node table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>c90a5b4dbd5835505492b6a99c38eda4</update_guid>
+<update_guid_history>c90a5b4dbd5835505492b6a99c38eda4:-613903855</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_0d0a5b4d47583550219e9cb5536d4387</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_node_table</description><name>u_node_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>0d0a5b4d47583550219e9cb5536d4387</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_0d0a5b4d47583550219e9cb5536d4387</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-348126641</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>b67a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6fd0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>450a5b4d8d583550d9e048860d826189</update_guid>
+<update_guid_history>450a5b4d8d583550d9e048860d826189:-348126641</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_0d0a5b4d47583550219e9cb5536d434b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_node_table</description><name>u_node_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>0d0a5b4d47583550219e9cb5536d434b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_0d0a5b4d47583550219e9cb5536d434b</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1629262265</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>f27a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6a50000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>410a5b4d3f583550efa20720bd5f957f</update_guid>
+<update_guid_history>410a5b4d3f583550efa20720bd5f957f:1629262265</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_740a5b4d47583550219e9cb5536d4340</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>u_node_table_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>740a5b4d47583550219e9cb5536d4340</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_user_role_740a5b4d47583550219e9cb5536d4340</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2006869042</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>fa7a974d47583550219e9cb5536d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b5d60000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table/>
+<target_name>u_node_table_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>700a5b4d3b5835504e18b17ca39cf143</update_guid>
+<update_guid_history>700a5b4d3b5835504e18b17ca39cf143:2006869042</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_010a5b4d47583550219e9cb5536d4380</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>CopadoDev</sys_created_by><sys_created_on>2023-07-26 12:58:40</sys_created_on><sys_id>010a5b4d47583550219e9cb5536d4380</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_node_table.u_node_table_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_node_table">0d0a5b4d47583550219e9cb5536d434b</sys_security_acl><sys_update_name>sys_security_acl_role_010a5b4d47583550219e9cb5536d4380</sys_update_name><sys_updated_by>CopadoDev</sys_updated_by><sys_updated_on>2023-07-26 12:58:40</sys_updated_on><sys_user_role display_value="u_node_table_user" name="u_node_table_user">740a5b4d47583550219e9cb5536d4340</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1961263096</payload_hash>
+<remote_update_set display_value="Node Update Table">b27a974d47583550219e9cb5536d43e6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>CopadoDev</sys_created_by>
+<sys_created_on>2023-07-26 13:00:43</sys_created_on>
+<sys_id>fe7a974d47583550219e9cb5536d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1899247b6ba0000001</sys_recorded_at>
+<sys_updated_by>CopadoDev</sys_updated_by>
+<sys_updated_on>2023-07-26 13:00:43</sys_updated_on>
+<table>u_node_table</table>
+<target_name>u_node_table.u_node_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c90a5b4dfd5835503133978908205181</update_guid>
+<update_guid_history>c90a5b4dfd5835503133978908205181:-1961263096</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
