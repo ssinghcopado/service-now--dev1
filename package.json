@@ -5,6 +5,5 @@
     "typescript": "^5.0.4"
   },
   "devDependencies": {
-    "jq": "^1.7.2"
   }
 }
