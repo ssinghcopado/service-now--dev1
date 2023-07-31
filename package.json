@@ -11,4 +11,7 @@
     "jest-environment-jsdom": "^29.1.0",
     "jq": "^1.7.2"
   }
+  "jest": {
+    "testEnvironment": "node"
+  }
 }
