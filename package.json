@@ -13,5 +13,11 @@
   },
   "jest": {
     "testEnvironment": "jsdom"
+     "testEnvironmentOptions": {
+          "browsers": [
+            "chrome",
+            "firefox",
+            "safari"
+          ]
   }
 }
