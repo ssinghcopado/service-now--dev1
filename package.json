@@ -5,7 +5,6 @@
     "typescript": "^5.0.4"
   },
   "devDependencies": {
-    "@salesforce/lwc-jest": "^0.6.2",
     "jq": "^1.7.2"
   }
 }
