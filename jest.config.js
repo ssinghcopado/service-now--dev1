@@ -1,7 +1,7 @@
 module.exports = {
     moduleFileExtensions: ['js', 'ts'],
-    testEnvironment: 'jsdom',
-    testEnvironmentOptions: ['chrome','firefox','safari'],
+    testEnvironment: 'node',
+    testEnvironmentOptions: {},
     testMatch: ['**/*.test.ts', '**/*.test.js'],
     transform: {
         '^.+\\.ts$': 'ts-jest',
