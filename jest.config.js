@@ -1,7 +1,9 @@
 module.exports = {
     moduleFileExtensions: ['js', 'ts'],
     testEnvironment: 'jsdom',
-    testEnvironmentOptions: ['browser','cache'],
+    testEnvironmentOptions: {
+    "userAgent": "Agent/007"
+  },
     testMatch: ['**/*.test.ts', '**/*.test.js'],
     transform: {
         '^.+\\.ts$': 'ts-jest',
