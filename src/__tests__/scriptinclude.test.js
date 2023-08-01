@@ -1,3 +1,8 @@
+// jest.config.js
+module.exports = {
+  testEnvironment: "jsdom",
+};
+
 // Sample test script for Script Includes
     var pathToScripts = "./records/sys_script_include/" ;
     const fs = require("fs"); // nodeJS file system module
