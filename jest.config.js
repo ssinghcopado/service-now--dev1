@@ -2,9 +2,14 @@ module.exports = {
     moduleFileExtensions: ['js', 'ts'],
     testEnvironment: 'jsdom',
     testEnvironmentOptions: {
-    html: '<html lang="zh-cmn-Hant"></html>',
-    url: 'https://jestjs.io/',
-    userAgent: 'Agent/007',
+    // Add any necessary options for jsdom here
+    // Example options:
+    resources: "usable", // Enable loading external resources (e.g., images) in jsdom
+    runScripts: "dangerously", // Allow scripts to run in jsdom
+    pretendToBeVisual: true, // Pretend to be a visual browser, enables CSS layout
+    virtualConsole: true, // Enable virtual console (console.log, console.error) in jsdom
+    userAgent: "Custom User-Agent String", // Set a custom User-Agent string for jsdom
+    // ... any other jsdom options you may need
   },
     testMatch: ['**/*.test.ts', '**/*.test.js'],
     transform: {
