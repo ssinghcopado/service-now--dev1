@@ -1,9 +1,9 @@
 module.exports = {
     moduleFileExtensions: ['js', 'ts'],
-    testEnvironment: 'node',
+    testEnvironment: 'jsdom',
     testEnvironmentOptions: {
     // Add any custom options you want to pass to the test environment
-    customExportConditions: ['node', 'node-addons'],
+    customExportConditions: ['jsdom', 'jsdom-addons'],
     // Add other test environment options here if needed
   },
     testMatch: ['**/*.test.ts', '**/*.test.js'],
