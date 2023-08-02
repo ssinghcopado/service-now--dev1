@@ -5,10 +5,10 @@
     "typescript": "^5.0.4"
   },
   "devDependencies": {
-    "@salesforce/lwc-jest": "^0.6.2",
-    "jest-environment-jsdom": "^29.5.0",
-    "jest-environment-node": "^29.5.0",
-    "jest-config": "^29.5.0",
+    "@salesforce/lwc-jest": "^0.2.0",
+    "jest-environment-jsdom": "^27.5.0",
+    "jest-environment-node": "^27.5.0",
+    "jest-config": "^27.5.0",
     "jq": "^1.7.2"
   },
    "scripts": {
