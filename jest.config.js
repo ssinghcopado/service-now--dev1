@@ -3,13 +3,8 @@ module.exports = {
     testEnvironment: 'node',
     testEnvironmentOptions: {
     // Add any custom options you want to pass to the test environment
-    projectConfig: {
-      testEnvironmentOptions: {
-        // Add your custom options here
-        customOption: true,
-        someOtherOption: 'hello',
-      },
-    },
+    customExportConditions: ['node', 'node-addons'],
+    // Add other test environment options here if needed
   },
     testMatch: ['**/*.test.ts', '**/*.test.js'],
     transform: {
