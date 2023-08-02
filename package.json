@@ -6,6 +6,7 @@
   },
   "devDependencies": {
     "@salesforce/lwc-jest": "^0.6.2",
+    "jest-environment-jsdom": "^29.5.0",
     "jest-environment-node": "27.5.1",
     "jest-config": "27.5.1",
     "jq": "^1.7.2"
