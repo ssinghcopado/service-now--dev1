@@ -11,7 +11,6 @@
     "jest-config": "^29.5.0",
     "jq": "^1.7.2"
   },
-  ,
    "scripts": {
      "test:unit": "sfdx-lwc-jest",
      "test:unit:debug": "sfdx-lwc-jest --debug",
