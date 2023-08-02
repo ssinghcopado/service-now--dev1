@@ -12,9 +12,9 @@
     "jq": "^1.7.2"
   },
    "scripts": {
-     "test:unit": "sfdx-lwc-jest",
-     "test:unit:debug": "sfdx-lwc-jest --debug",
-     "test:unit:coverage": "sfdx-lwc-jest --coverage",
-     "test:unit:copado": "sfdx-lwc-jest --coverage --verbose -- --json"
+     "test:unit": "jest",
+     "test:unit:debug": "jest --debug",
+     "test:unit:coverage": "jest --coverage",
+     "test:unit:copado": "jest --coverage --verbose -- --json"
    }
 }
