@@ -1,7 +1,7 @@
-// Sample test script for business rules
-var pathToScripts = "./records/sys_script/" ;
+// Sample test script for Script Includes
+
 const fs = require("fs"); // nodeJS file system module
-const filesInDirectory = fs.readdirSync(pathToScripts).toString(); // get all files in current directory
+const filesInDirectory = fs.readdirSync(".").toString(); // get all files in current directory
 const filesArray = filesInDirectory.split(','); // split files into an array
 
 for (i = 0; i < filesArray.length; i++) {
@@ -10,7 +10,7 @@ for (i = 0; i < filesArray.length; i++) {
     }
     describe("Testing script: " + filesArray[i], () => {
         // group tests together by script file
-        const stringToTest = fs.readFileSync(pathToScripts + filesArray[i]).toString(); // read text of script into a string
+        const stringToTest = fs.readFileSync(filesArray[i]).toString(); // read text of script into a string
         
         test("Should not contain hard-coded sys_id", () => {
             expect(stringToTest).not.toMatch(/[a-fA-F0-9]{32}/); 
@@ -26,10 +26,6 @@ for (i = 0; i < filesArray.length; i++) {
 
         test("Should not contain gs.log() - switch to using gs.info or gs.debug", () => {
             expect(stringToTest).not.toMatch('gs.log(');
-        });
-
-        test("Potentially recursive business rule - should not use current.update()", () => {
-            expect(stringToTest).not.toMatch("current.update()");
         });
     });
 }
