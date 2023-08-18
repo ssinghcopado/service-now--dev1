@@ -1,12 +1,16 @@
 {
   "dependencies": {
-    "ts-jest": "^29.1.0",
+    "ts-jest": "^24.3.0",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.6"
   },
   "devDependencies": {
     "@salesforce/lwc-jest": "^0.6.2",
-    "jest-environment-jsdom": "^29.5.0",
-    "jq": "^1.7.2"
+    "@types/jest": "^29.5.3",
+    "install": "^0.13.0",
+    "jest-config": "^24.9.0",
+    "jest-environment-jsdom": "^24.9.0",
+    "jq": "^1.7.2",
+    "npm": "^9.8.1"
   }
 }
